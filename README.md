@@ -46,9 +46,9 @@ A developer-focused project aimed at reducing the repetitive work involved in bu
 
 **HTML in. Faithful, usable PDFs out.**
 
-I’m developing an HTML-to-PDF rendering project with a focus on practical output quality and a developer-friendly workflow.
+I developed an HTML-to-PDF rendering project with a focus on practical output quality and a developer-friendly workflow.
 
-> The repository link will be added once its exact URL is configured.
+<a href="https://github.com/Haimanot25/dom2pdf"><img src="https://img.shields.io/badge/Explore%20repository-DBoard-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore dom2pdf"></a>
 
 </td>
 </tr>
