@@ -42,13 +42,15 @@ A developer-focused project aimed at reducing the repetitive work involved in bu
 </td>
 <td width="50%" valign="top">
 
-### HTML-to-PDF engine
+### [dom2pdf](https://github.com/Haimanot25/dboard) HTML-to-PDF engine
 
 **HTML in. Faithful, usable PDFs out.**
 
 I developed an HTML-to-PDF rendering project with a focus on practical output quality and a developer-friendly workflow.
 
-<a href="https://github.com/Haimanot25/dom2pdf"><img src="https://img.shields.io/badge/Explore%20repository-DBoard-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore dom2pdf"></a>
+`Next.js` · `HTML` · `TypeScript` · `CLI` · 
+
+<a href="https://github.com/Haimanot25/dom2pdf"><img src="https://img.shields.io/badge/Explore%20repository-dom2pdf-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore dom2pdf"></a>
 
 </td>
 </tr>
