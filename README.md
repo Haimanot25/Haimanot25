@@ -59,12 +59,12 @@ I’m developing an HTML-to-PDF rendering project with a focus on practical outp
 <!-- RECENT_PROJECTS_START -->
 | Repository | Description | Language | Stars |
 | --- | --- | --- | ---: |
+| [dom2pdf](https://github.com/Haimanot25/dom2pdf) | No description yet | TypeScript | 0 |
 | [dboard](https://github.com/Haimanot25/dboard) | Enterprise database admin panel with multi-DB support, AI-powered dashboard generation, real-time da | TypeScript | 2 |
 | [utility-tools](https://github.com/Haimanot25/utility-tools) | utility tools for K8 | JavaScript | 0 |
 | [sProject](https://github.com/Haimanot25/sProject) | No description yet | JavaScript | 0 |
 | [ml-experiments](https://github.com/Haimanot25/ml-experiments) | big data ml analysis  | JavaScript | 0 |
 | [mobile-app](https://github.com/Haimanot25/mobile-app) | simple mobile APP | JavaScript | 0 |
-| [data-scripts](https://github.com/Haimanot25/data-scripts) | data analysis tool  | JavaScript | 0 |
 <!-- RECENT_PROJECTS_END -->
 
 ## `toolbox`
