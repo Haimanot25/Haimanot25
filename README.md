@@ -61,9 +61,9 @@ I developed an HTML-to-PDF rendering project with a focus on practical output qu
 <!-- RECENT_PROJECTS_START -->
 | Repository | Description | Language | Stars |
 | --- | --- | --- | ---: |
-| [lograke](https://github.com/Haimanot25/lograke) | Universal adaptive production log intelligence platform to ingest, parse, search, and visualize logs | JavaScript | 1 |
-| [dom2pdf](https://github.com/Haimanot25/dom2pdf) | HTML deserves better than screenshot-based PDFs. dom2pdf-js is an open-source JavaScript library foc | TypeScript | 1 |
-| [dboard](https://github.com/Haimanot25/dboard) | Enterprise database admin panel with multi-DB support, AI-powered dashboard generation, real-time da | TypeScript | 2 |
+| [lograke](https://github.com/Haimanot25/lograke) | Universal adaptive production log intelligence platform to ingest, parse, search, and visualize logs | JavaScript | 6 |
+| [dboard](https://github.com/Haimanot25/dboard) | Enterprise database admin panel with multi-DB support, AI-powered dashboard generation, real-time da | TypeScript | 4 |
+| [dom2pdf](https://github.com/Haimanot25/dom2pdf) | HTML deserves better than screenshot-based PDFs. dom2pdf-js is an open-source JavaScript library foc | TypeScript | 2 |
 | [utility-tools](https://github.com/Haimanot25/utility-tools) | utility tools for K8 | JavaScript | 0 |
 | [sProject](https://github.com/Haimanot25/sProject) | No description yet | JavaScript | 0 |
 | [ml-experiments](https://github.com/Haimanot25/ml-experiments) | big data ml analysis  | JavaScript | 0 |
